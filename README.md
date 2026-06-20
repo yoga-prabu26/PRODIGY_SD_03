@@ -9,7 +9,7 @@
 [![SQLite](https://img.shields.io/badge/SQLite-3-003B57?style=for-the-badge&logo=sqlite&logoColor=white)](https://sqlite.org)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](LICENSE)
 
-*Built as part of the Prodigy InfoTech Software Development Internship — Task 03*
+
 
 [Features](#features) · [Installation](#installation) · [Usage](#usage) · [Architecture](#architecture) · [Database Design](#database-design)
 
