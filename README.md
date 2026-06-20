@@ -239,6 +239,20 @@ The database is created automatically at `database/contacts.db` on first launch.
 
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
+
+
+---
+
+## 👤 Author
+
+**Yoga Prabu E**
+
+<p>GitHub: https://github.com/yoga-prabu2</p>
+<p>LinkedIn: https://www.linkedin.com/in/yogaprabue07/</p>
+
+
+Built as part of **Software Development Internship — Task 03**
+
 ---
 
 ## 📄 License
@@ -247,6 +261,3 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 
 ---
 
-<div align="center">
-Built with ❤️ as part of the <strong>Prodigy InfoTech Software Development Internship</strong>
-</div>
