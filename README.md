@@ -110,11 +110,7 @@ PRODIGY_SD_03/
 ├── database.py          # SQLite persistence layer (DAO pattern)
 ├── contact_manager.py   # Business logic / Controller
 ├── ui.py                # Full CustomTkinter UI (View)
-│
-├── assets/
-│   └── avatars/         # User-uploaded profile pictures
-├── database/
-│   └── contacts.db      # SQLite database (auto-created)
+│── Screenshots
 ├── exports/             # CSV / Excel exports land here
 ├── backups/             # Database backup snapshots
 │
@@ -214,17 +210,29 @@ The database is created automatically at `database/contacts.db` on first launch.
 
 ---
 
+
 ## 📸 Screenshots
 
-> Screenshots folder available at `/screenshots/` — run the app and use your OS screenshot tool.
+### Home Screen
+![Home Screen](screenshots/home_screen.png)
 
-| View | Description |
-|---|---|
-| Dashboard | Two-panel layout with contact list and profile card |
-| Analytics | Stats cards + category breakdown bar chart |
-| Add Contact | Validated form dialog with all fields |
-| Activity Log | Timestamped history of all actions |
+### Add Contact
+![Add Contact](screenshots/add_contact.png)
 
+### Contact Added
+![Contact Added](screenshots/contact_added.png)
+
+### Search Contact
+![Search Contact](screenshots/search_contact.png)
+
+### Export Options
+![Export Options](screenshots/export_options.png)
+
+### Excel Export
+![Excel Export](screenshots/excel_export.png)
+
+### Analytics Dashboard
+![Analytics Dashboard](screenshots/analytics_dashboard.png)
 ---
 
 ## 🤝 Contributing
