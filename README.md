@@ -247,7 +247,7 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 
 **Yoga Prabu E**
 
-<p>GitHub: https://github.com/yoga-prabu2</p>
+<p>GitHub: https://github.com/yoga-prabu26</p>
 <p>LinkedIn: https://www.linkedin.com/in/yogaprabue07/</p>
 
 
