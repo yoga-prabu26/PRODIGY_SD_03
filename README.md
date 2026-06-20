@@ -2,7 +2,7 @@
 
 # 🗂 ContactVault
 
-**A professional-grade Contact Management System built with Python &  CustomTkinter**
+**A professional-grade Contact Management System built with Python & CustomTkinter**
 
 [![Python](https://img.shields.io/badge/Python-3.9+-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
 [![CustomTkinter](https://img.shields.io/badge/CustomTkinter-5.2+-1F6FEB?style=for-the-badge)](https://github.com/TomSchimansky/CustomTkinter)
