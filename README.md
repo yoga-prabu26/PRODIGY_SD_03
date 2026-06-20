@@ -257,7 +257,7 @@ Built as part of **Software Development Internship — Task 03**
 
 ## 📄 License
 
-[MIT](LICENSE) © 2025 ContactVault
+[MIT](LICENSE) © 2026 ContactVault
 
 ---
 
